@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "Bruna180519",
+    "database": "cadastro-node",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "Bruna180519",
+    "database": "cadastro-node",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "Bruna180519",
+    "database": "cadastro-node",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
